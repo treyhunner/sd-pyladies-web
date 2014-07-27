@@ -19,5 +19,5 @@ Try it out::
     $ cd sd-pyladies-web
     $ complexity project/
 
-Once you've done that, open a web browser to https://127.0.0.1:9090 to see
+Once you've done that, open a web browser to http://127.0.0.1:9090 to see
 the locally installed San Diego PyLadies static site.
